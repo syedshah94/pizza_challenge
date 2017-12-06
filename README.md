@@ -1,4 +1,3 @@
-# pizza_challenge
 # Pizza Delivery
 
 ## Part 1
